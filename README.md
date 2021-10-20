@@ -27,12 +27,12 @@ SK 청년 비상 창업 경연대회 최우수상 - 스마트 마그넷 멀티�
 📖 STUDY <br>
 비트캠프 서초 본원 인공지능 혁신 과정 3기 수료 <br>
 <br>
-AI 개발자 설덕주 입니다.<br>
-Object Detection, GAN, Time series 관련 프로젝트를 선호합니다.<br>
-<br>
 :telephone: CONTACT <br>
 Email : digi809@naver.com <br>
 Dacon : https://dacon.io/myprofile/428512/home <br>
+<br>
+AI 개발자 설덕주 입니다.<br>
+Object Detection, GAN, Time series 관련 프로젝트를 선호합니다.<br>
 <br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DJSull93&hide=contribs,prs))](https://github.com/anuraghazra/github-readme-stats)
 <br>
