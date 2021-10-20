@@ -40,5 +40,7 @@ SK 청년 비상 창업 경연대회 최우수상 - 스마트 마그넷 멀티�
 <br>
 📖 STUDY <br>
 비트캠프 서초 본원 인공지능 혁신 과정 3기 수료 <br>
+<br>
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDJSull93&count_bg=%233D5BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=TODAY&edge_flat=true)](https://hits.seeyoufarm.com)
