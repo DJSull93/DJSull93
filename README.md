@@ -1,14 +1,5 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=AI_Dev&fontSize=70)
-
-AI 개발자 설덕주 입니다.<br>
-Object Detection, GAN, Time series 관련 프로젝트를 선호합니다.<br>
-<br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DJSull93&hide=contribs,prs))](https://github.com/anuraghazra/github-readme-stats)
-<br>
-Email : digi809@naver.com <br>
-Dacon : https://dacon.io/myprofile/428512/home <br>
-<br>
 Language <br>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <br>
 Machine learning / Deep learning <br>
@@ -36,3 +27,11 @@ SK 청년 비상 창업 경연대회 최우수상 - 스마트 마그넷 멀티�
 <br>
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDJSull93&count_bg=%233D5BC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=TODAY&edge_flat=true)](https://hits.seeyoufarm.com)
+<br>
+AI 개발자 설덕주 입니다.<br>
+Object Detection, GAN, Time series 관련 프로젝트를 선호합니다.<br>
+<br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DJSull93&hide=contribs,prs))](https://github.com/anuraghazra/github-readme-stats)
+<br>
+Email : digi809@naver.com <br>
+Dacon : https://dacon.io/myprofile/428512/home <br>
