@@ -1,9 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=AI_Dev&fontSize=70)
 
-# Deokju
-
-
 AI 개발자 설덕주 입니다.<br>
 Object Detection, GAN, Time series 관련 프로젝트를 선호합니다.<br>
 <br>
