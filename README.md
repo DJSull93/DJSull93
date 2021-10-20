@@ -35,5 +35,7 @@ Object Detection, GAN, Time series 관련 프로젝트를 선호합니다.<br>
 <br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DJSull93&hide=contribs,prs))](https://github.com/anuraghazra/github-readme-stats)
 <br>
+<br>
+:telephone: CONTACT <br>
 Email : digi809@naver.com <br>
 Dacon : https://dacon.io/myprofile/428512/home <br>
