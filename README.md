@@ -6,6 +6,7 @@ Object Detection, GAN, Time series 관련 프로젝트를 선호합니다.<br>
 
 <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJSull93)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DJSull93)](https://github.com/anuraghazra/github-readme-stats)<br>
 
 <br>
 
