@@ -5,7 +5,7 @@ AI 개발자 설덕주 입니다.<br>
 Object Detection, GAN, Time series 관련 프로젝트를 선호합니다.<br>
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJSull93)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJSull93)](https://github.com/DJSull93/github-readme-stats)
 
 <br>
 
