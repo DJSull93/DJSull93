@@ -32,7 +32,7 @@ Email : digi809@naver.com <br>
 Dacon : https://dacon.io/myprofile/428512/home <br>
 <br>
 AI 개발자 설덕주 입니다.<br>
-Object Detection, GAN, Time series 관련 프로젝트를 선호합니다.<br>
+Object Detection, GAN, Time series, NLP 관련 프로젝트를 선호합니다.<br>
 <br>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DJSull93&hide=contribs&theme=merko&show_icons=true,prs)](https://github.com/anuraghazra/github-readme-stats)<br> 
 <br>
