@@ -11,7 +11,7 @@
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> 
 <br>
 <br>
-💻 Certification <br>
+:thumbsup: Certification <br>
 TensorFlow Developer Certificate <br>
 <br>
 🏆 Competition <br>
