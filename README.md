@@ -15,8 +15,8 @@
 TensorFlow Developer Certificate <br>
 <br>
 🏆 Competition <br>
-Dacon - 삼성 주최 화학식 물성 예측 경진대회 - Top 7% (66th) <br>
 Dacon - 자연어 기반 기후기술분류 AI 경진대회 - Top 2% (26th) <br>
+Dacon - 삼성 주최 화학식 물성 예측 경진대회 - Top 7% (66th) <br>
 Dacon - 뉴스 토픽 분류 AI 경진대회 - Top 12% (91th) <br>
 <br>
 🏅 AWARD <br>
