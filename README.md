@@ -10,7 +10,7 @@
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> 
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> 
 <br>
-<br>
+<br> 
 :thumbsup: Certification <br>
 TensorFlow Developer Certificate <br>
 <br>
